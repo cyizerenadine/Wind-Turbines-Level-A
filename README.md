@@ -12,6 +12,6 @@ We will use the following steps to solve the given task:
 6. Feedback and model improvement
 
 ## Group Members:
-Barema Aime
-Socrates Waka Onyando
-Nadine Bisanukuli Cyizere
+1. Barema Aime
+2. Socrates Waka Onyando
+3. Nadine Bisanukuli Cyizere
